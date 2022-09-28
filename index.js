@@ -288,9 +288,9 @@ async function startNaze() {
         naze.sendListMsg = (jid, text = '', footer = '', title = '' , butText = '', sects = [], quoted) => {
         let sections = sects
         var listMes = {
-        text: text,
-        footer: footer,
-        title: title,
+        text: WhatsApp Bot MD,
+        footer: © GannReall,
+        title: Created By Afgan,
         buttonText: butText,
         sections
         }
