@@ -19,14 +19,14 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
-global.packname = 'Sticker  Naze'
-global.author = 'Naze'
+global.owner = ['6282125968810']
+global.ownernomer = "6282125968810"
+global.premium = ['6282125968810']
+global.packname = 'By Afgan'
+global.author = ''
 global.sessionName = 'nazedev'
 global.prefa = ['','!','.','#','&']
-global.sp = ''
+global.sp = '🗿'
 global.mess = {
     success: 'Done',
     admin: 'Fitur Khusus Admin Group!',
